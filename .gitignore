@@ -1,0 +1,7 @@
+node_modules/
+.envMONGODB_USERNAME="otokpae544_db_user"
+MONGODB_PASSWORD="rscxMyo6PWDMOl00"
+MONGODB_URI="mongodb+srv://otokpae544_db_user:rscxMyo6PWDMOl00@cluster0.ob5k3cy.mongodb.net"
+npm-debug.log*
+uploads/
+firebase-service-account*.json
